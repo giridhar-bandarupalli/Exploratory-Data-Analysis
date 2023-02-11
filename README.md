@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Complete guide to EDA topics
+A Complete guide to EDA topics
